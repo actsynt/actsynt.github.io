@@ -20,7 +20,7 @@ author: Antonio Di Stasio
 ###############################################
 
 navbar-links:
-  Home: "index"
+  Home: "aboutme"
   Call for Participation: "call"
   Invited Speaker: "invited"
   Committee: "committee"
