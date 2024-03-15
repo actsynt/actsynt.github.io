@@ -1,5 +1,5 @@
 ---
-layout: call
+layout: home
 title: Call for Partecipation
 
 ---
