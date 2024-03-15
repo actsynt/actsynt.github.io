@@ -17,23 +17,37 @@ title: Call for Partecipation
 
 <h3>Topics</h3>
 
-<p>Topics of interest range on any use of Temporal Logics on finite traces, including (but not limited to) the following areas:</p>
+<p>Topics of interest range from various aspects of Reasoning about Actions, Planning and Reactive Synthesis, including (but not limited to) the following areas:</p>
 <ul>
-  <li>AI Planning</li> 
-  <li>Verification and Synthesis</li> 
-  <li>Reinforcement Learning</li> 
-  <li>Automated Reasoning</li> 
-  <li>Knowledge Representation</li> 
-  <li>Multi-Agent Systems</li> 
-  <li>Robotics</li> 
-  <li>Motion and Task Planning </li> 
-  <li>Discrete-Event Control</li> 
-  <li>Workflow Management</li> 
-  <li>Conversational Systems  </li> 
-  <li>Automated Service Composition</li> 
-  <li>Business Process Management</li> 
-  <li>Fintech</li> 
-  <li>Cyber Security</li> 
-  <li>Human computer interaction</li> 
-  <li>Natural Language Processing</li> 
+    <li>Agent behavior control</li>
+    <li>AI Planning</li>
+    <li>Augmented forms of Generative AI</li>
+    <li>Automated Reasoning</li>
+    <li>Automated Service Composition</li>
+    <li>Conversational Systems</li>
+    <li>Declarative and Procedural Business Process Management</li>
+    <li>Discrete-Event Control</li>
+    <li>First-person vs third person view</li>
+    <li>Formal Verification and Synthesis</li>
+    <li>Generalized planning</li>
+    <li>Hierarchical abstractions of action models</li>
+    <li>Human computer interaction</li>
+    <li>Knowledge Representation</li>
+    <li>Logic-based representation, action theories, temporal logics, logics of programs</li>
+    <li>Motion and Task Planning</li>
+    <li>Multi-Agent Systems</li>
+    <li>Partial observability, incomplete information, uncertainty</li>
+    <li>Plan, intention, and activity recognition</li>
+    <li>Reasoning about Actions</li>
+    <li>Reasoning about beliefs, goals, and intentions</li>
+    <li>Formal techniques for responsibility anticipation and ethic issues</li>
+    <li>Reinforcement Learning</li>
+    <li>Robotics</li>
+    <li>Stochastic representation, MDPs and Non Markovian Decision Processes</li>
+    <li>Transparency, predictability, and accountability of agents' behaviors</li>
+    <li>Workflow Management</li>
 </ul>
+
+
+
+
