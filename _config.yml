@@ -23,7 +23,7 @@ navbar-links:
   Home: "index"
   Call for Participation: "call"
   Invited Speaker: "invited"
-  Committee: "commitee"
+  Committee: "committee"
   
   #Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
