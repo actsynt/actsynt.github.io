@@ -11,11 +11,11 @@ html {
 }
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 1.125rem;
-  color: {{ site.text-col | default: "#404040" }};
+  font-family: 'Roboto', 'Arial', sans-serif;
+  font-size: 1rem;
+  color: #333333;
   position: relative;
-  background-color: {{ site.page-col | default: "#FFFFFF" }};
+  background-color: #F8F9FA;
   {% if site.page-img %}
   background-image: url({{ site.page-img | relative_url }});
   background-attachment: fixed;
@@ -47,7 +47,7 @@ h3 {
   font-size: 1.5rem;
 }
 h4 {
-  font-size: 1.125rem;
+  font-size: 1rem;
 }
 h1, h2, h3, h4 {
   margin-top: 1.25rem;
@@ -152,7 +152,7 @@ img {
   line-height: 1.5;
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
-  font-size: 1.125rem;
+  font-size: 1rem;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -434,7 +434,7 @@ footer .footer-custom-content {
     padding: 3.125rem 0;
   }
   footer .footer-links {
-    font-size: 1.125rem;
+    font-size: 1rem;
   }
   footer .copyright {
     font-size: 1rem;
@@ -469,7 +469,7 @@ footer .footer-custom-content {
 .post-preview a {
   text-decoration: none;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  color: {{ site.text-col | default: "#404040" }};
+  color: #333333;
 }
 
 .post-preview a:focus,
@@ -490,10 +490,10 @@ footer .footer-custom-content {
 .post-preview .post-meta,
 .post-heading .post-meta {
   color: #808080;
-  font-size: 1.125rem;
+  font-size: 1rem;
   font-style: italic;
   margin: 0 0 0.625rem;
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Roboto', 'Arial', sans-serif;
 }
 .post-heading .post-meta {
   display: inline-block;
@@ -576,7 +576,7 @@ footer .footer-custom-content {
 }
 
 .blog-tags span {
-  color: {{ site.text-col | default: "#404040" }};
+  color: #333333;
   opacity: 0.8;
 }
 
@@ -585,7 +585,7 @@ footer .footer-custom-content {
 }
 
 .blog-tags a {
-  color: {{ site.text-col | default: "#404040" }};
+  color: #333333;
   text-decoration: none;
   padding: 0 0.3125rem;
   opacity: 0.8;
@@ -595,8 +595,8 @@ footer .footer-custom-content {
 
 .blog-tags a:hover {
   opacity: 1;
-  color: {{ site.text-col | default: "#404040" }};
-  border-color: {{ site.text-col | default: "#404040" }};
+  color: #333333;
+  border-color: #333333;
 }
 
 .post-preview .blog-tags {
@@ -783,7 +783,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   padding: 0.625rem 0.3125rem;
   background-color: #FFF;
   border-radius: 0;
-  color: {{ site.text-col | default: "#404040" }};
+  color: #333333;
   padding: 0.75rem 1rem;
 }
 @media (min-width: 768px) {
