@@ -4,7 +4,7 @@ title: Call for Participation
 
 ---
 <p align="justify">
- Submissions should have a single main author, who will be the speaker, and each speaker can have no more than one submission. Each submission must be one- or two-pages long, including references (in <a href="http://www.aaai.org/Publications/Templates/AuthorKit20.zip" target="_blank"> AAAI style</a>), and may refer to joint work with other collaborators to be credited in the presentation. There will be no formal proceedings and we encourage submissions of work presented or submitted elsewhere (no copyright transfer is required, only permission to post the abstract on the workshop site). Submissions should be uploaded via 
+ Submissions should have a single main author, who will be the speaker, and each speaker can have no more than one submission. Each submission must be one- or two-pages long, including references (in <a href="https://ecai2024.eu/download/ecai-template.zip" target="_blank"> ECAI template</a>), and may refer to joint work with other collaborators to be credited in the presentation. There will be no formal proceedings and we encourage submissions of work presented or submitted elsewhere (no copyright transfer is required, only permission to post the abstract on the workshop site). Submissions should be uploaded via 
 <a href="" target="_blank"> Charingtool.</a>
 </p>
 
