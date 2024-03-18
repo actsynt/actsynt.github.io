@@ -5,7 +5,7 @@ title: Invited Speakers
 
 
 <ul>
-    <li>Suguman Bansal, Georgia Tech, Atlanta, USA</li>
-    <li>Augusto B. Corrêa, University of Basel, Switzerland </li>
-    <li>Jan Křetínský, Technical University of Munich, Germany</li>
+    <li> <a href="https://suguman.github.io/" />Suguman Bansal</a>, Georgia Tech, Atlanta, USA</li>
+    <li> <a href="https://ai.dmi.unibas.ch/people/correa/" />Augusto B. Corrêa</a>, University of Basel, Switzerland </li>
+    <li> <a href="https://www7.in.tum.de/~kretinsk/" />Jan Křetínský</a>, Technical University of Munich, Germany</li>
 </ul>
