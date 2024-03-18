@@ -9,9 +9,10 @@ title: Call for Participation
 </p>
 
 <h3>Important Dates</h3>
+
 <ul>
   <li> <b>June 14, 2024</b>: Paper submission deadline (AoE). </li>
-  <li> <b>July 1 , 2024</b>: Author notification (AoE). </li>
+  <li> <b>July 1, 2024</b>: Author notification (AoE). </li>
 </ul>
 
 <h3>Topics</h3>
