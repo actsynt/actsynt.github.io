@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Call for Partecipation
+title: Call for Participation
 
 ---
 <p align="justify">
