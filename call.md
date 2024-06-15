@@ -11,8 +11,9 @@ title: Call for Participation
 <h3>Important Dates</h3>
 
 <ul>
-  <li> <b>June 14, 2024</b>: Paper submission deadline (AoE). </li>
-  <li> <b>July 1, 2024</b>: Author notification (AoE). </li>
+  <li> <s>June 14, 2024 </s> <b> July 1, 2024 (AoE)</b>: Paper submission deadline (AoE). </li>
+  <li>  <s>July 1, 2024 </s> <b> July 13, 2024</b>: Author notification (AoE). </li>
+ 
 </ul>
 
 <h3>Topics</h3>
