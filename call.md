@@ -12,7 +12,7 @@ title: Call for Participation
 
 <ul>
   <li> <s>June 14, 2024 </s> <b> July 1, 2024 (AoE)</b>: Paper submission deadline (AoE). </li>
-  <li>  <s>July 1, 2024 </s> <b> July 14, 2024</b>: Author notification (AoE). </li>
+  <li>  <s>July 1, 2024 </s> <b> July 22, 2024</b>: Author notification (AoE). </li>
  
 </ul>
 
