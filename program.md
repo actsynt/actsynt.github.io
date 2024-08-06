@@ -7,7 +7,7 @@ title: Program
 <table style="font-size:80%">
   <tbody>
     <tr style="background-color:#FEF2CB">
-      <td>9:00-10:30   </td>
+      <td>9:00-10:30</td>
       <td><b>Session 1</b> </td>
     </tr>
     <tr style="background-color:#B0C4DE">
@@ -36,7 +36,7 @@ title: Program
     </tr>
     <tr style="background-color:#B0C4DE">
       <td>Invited Speaker</td>
-      <td><b> Augusto B. Corrêa: <em>  Lifted Planning: Recent Advances in Planning Using First-Order Representations</em></b> </td>
+      <td><b>Augusto B. Corrêa: <em>  Lifted Planning: Recent Advances in Planning Using First-Order Representations</em></b> </td>
     </tr>
     <tr>
       <td></td>
@@ -68,7 +68,7 @@ title: Program
     </tr>
     <tr>
         <td></td>
-        <td>Alexander McCaffrey:  <em>CoPRIME: Compression Progress Rewards for Intrinsically Motivated Exploration</em> </td>
+        <td>Alexander McCaffrey: <em>CoPRIME: Compression Progress Rewards for Intrinsically Motivated Exploration</em> </td>
     </tr>
     <tr>
         <td></td>
@@ -107,7 +107,6 @@ title: Program
         <td></td>
         <td>Matteo Mancanelli: <em> Situation Calculus Temporally Lifted Abstractions for Program Synthesis </em></td>
     </tr>
-    
   </tbody>
 </table>
 
