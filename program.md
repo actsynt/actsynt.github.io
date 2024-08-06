@@ -38,19 +38,19 @@ title: Program
     </tr>
     <tr style="background-color:#B0C4DE">
       <td>Invited Speaker</td>
-      <td><b> Marco Montali: <em>Declarative process management and mining: a killer application for LTLf</em></b> <a href="/assets/slides/montalimarco.pdf" target="_blank"><img class="paperlink" src="/assets/img/slide-img.png" title="slides"></a></td>
-    </tr>
-    <tr>
-      <td>10 minutes</td>
-      <td>Break  </td>
+      <td><b> Augusto B. Corrêa: <em>  Lifted Planning: Recent Advances in Planning Using First-Order Representations</em></b> </td>
     </tr>
     <tr>
       <td></td>
-      <td>Martin Leucker: <em> Linear-Time Temporal Logic for Runtime Verification Revisited</em> <a href="/assets/slides/Martin Leucker.pdf" target="_blank"><img class="paperlink" src="/assets/img/slide-img.png" title="slides"></a></td>
+      <td>Bernhard Nebel: <em> The Computational Complexity of Multi-Agent Pathfinding on Directed Graphs</em> </td>
     </tr>
     <tr>
       <td></td>
-      <td>Sarah Winkler:<em> Monitoring Arithmetic Temporal Properties on Finite Traces </em> <a href="/assets/slides/Sarah Winkler.pdf" target="_blank"><img class="paperlink" src="/assets/img/slide-img.png" title="slides"></a></td>
+      <td>Mikhail Soutchanski: <em>Heuristic Planning for Hybrid Dynamical Systems  </em> </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Luigi Bonassi: <em>Dealing with Numeric and Metric Time Constraints in PDDL3 via Compilation to Numeric Planning </em> </td>
     </tr>
     <tr style="background-color:#D8D8D8">
       <td>12:30-14:00</td>
