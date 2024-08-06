@@ -24,6 +24,7 @@ navbar-links:
   Call for Participation: "call"
   Invited Speaker: "invited"
   Committee: "committee"
+  Program: "program"
   
   #Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
