@@ -62,19 +62,19 @@ title: Program
     </tr>
     <tr style="background-color:#B0C4DE">
       <td>Invited Speaker</td>
-      <td><b> Sheila McIlraith: <em>Automated Planning with LTL: Techniques, Advances, and its Broad Applicability </em></b></td>
-    </tr>
-    <tr>
-      <td>10 minutes</td>
-      <td>Break  </td>
+      <td><b> Suguman Bansal: <em>TBA</em></b></td>
     </tr>
     <tr>
         <td></td>
-        <td>Albertao Camacho: <em>Temporal Logic Goal Specifications for Automated Planning </em> <a href="/assets/slides/acamacho.pdf" target="_blank"><img class="paperlink" src="/assets/img/slide-img.png" title="slides"></a></td>
+        <td>Sao Mai Nguyen: <em> Online Learning a Symbolic Abstraction of Actions in Hierarchical RL with Formal Methods</em> </td>
     </tr>
     <tr>
         <td></td>
-        <td>Toryn Q. Klassen:  <em>LTL and Beyond: Formal Languages for Reward Function Specification in Reinforcement Learning </em> <a href="/assets/slides/Toryn_Klassen.pdf" target="_blank"><img class="paperlink" src="/assets/img/slide-img.png" title="slides"></a></td>
+        <td>Alexander McCaffrey:  <em>CoPRIME: Compression Progress Rewards for Intrinsically Motivated Exploration</em> </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Xiangyu Zhao;Chengqian Ma:  <em>Prompt Recursive Search: A Living Framework with Adaptive Growth in LLM Auto-Prompting</em> </td>
     </tr>
     <tr style="background-color:#D8D8D8">
         <td>15:30-16:00</td>
@@ -86,40 +86,30 @@ title: Program
     </tr>
     <tr>
         <td></td>
-        <td>Rodrigo Toro Icarte: <em> Learning Reward Machines for Partially Observable Reinforcement Learning </em> <a href="/assets/slides/Rodrigo%20Toro%20Icarte.pdf" target="_blank"><img class="paperlink" src="/assets/img/slide-img.png" title="slides"></a></td>
+        <td>Alejandro Fernández Alburquerque :  <em> Parallel Strategies for Best-First Generalized Planning</em> </td>
     </tr>
     <tr>
         <td></td>
-        <td>Pashootan Vaezipoor:<em> LTL2Action: Generalizing LTL Instructions for Multi-Task RL</em> <a href="/assets/slides/Pashootan%20Vaezipoor.pdf" target="_blank"><img class="paperlink" src="/assets/img/slide-img.png" title="slides"></a></td>
+        <td>Oleksandr Firsov: <em> Optiplan : An Efficient CSP Encoding for Hybrid HTN Planning</em></td>
     </tr>
     <tr>
         <td></td>
-        <td>Andrew Li: <em> Learning to Follow Instructions in Text-Based Games </em> <a href="/assets/slides/andrewli.pdf" target="_blank"><img class="paperlink" src="/assets/img/slide-img.png" title="slides"></a></td>
+        <td>Gianmarco Parretti: <em>Synthesis with Multiple Specifications  </em> </td>
+    </tr>
+     <tr>
+        <td></td>
+        <td>Gianmarco Parretti: <em> Computational Foundations of Responsibility Based on LTLf Reactive Synthesis </em> </td>
+    </tr>
+    <tr>
+    <tr>
+        <td></td>
+        <td>Przemysław Wałęga: <em> Materialisation In Rule-Based Temporal Languages</em> </td>
     </tr>
     <tr>
         <td></td>
-        <td>Luciana Silo:<em> Planning for LTLf Goals in Presence of Uncertainty on the Initial State </em> <a href="/assets/slides/silo.pdf" target="_blank"><img class="paperlink" src="/assets/img/slide-img.png" title="slides"></a></td>
+        <td>Matteo Mancanelli: <em> Situation Calculus Temporally Lifted Abstractions for Program Synthesis </em></td>
     </tr>
-    <tr>
-        <td></td>
-        <td>Anneline Daggelinckx: <em> Verifying Planning Sketches in CTL*f</em> <a href="/assets/slides/Daggelinckx.pdf" target="_blank"><img class="paperlink" src="/assets/img/slide-img.png" title="slides"></a></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Francesco Fuggitti: <em>  Planning for Pure-Past Linear Temporal Goals </em> <a href="/assets/slides/fuggitti.pdf" target="_blank"><img class="paperlink" src="/assets/img/slide-img.png" title="slides"></a></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Songtuan Lin: <em> Comparing the Expressivity of STRIPS Planning with Finite-LTL vs. LTL</em> <a href="/assets/slides/SongtuanLin.pdf" target="_blank"><img class="paperlink" src="/assets/img/slide-img.png" title="slides"></a></td>
-    </tr>
-    <tr>
-        <td>20 minutes</td>
-        <td> <em> Poster Session </em></td>
-    </tr>
-    <tr style="background-color:#D8D8D8">
-        <td>18:00-19:00</td>
-        <td><b>Reception</b></td>
-    </tr>
+    
   </tbody>
 </table>
 
