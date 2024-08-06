@@ -74,7 +74,7 @@ title: Program
     </tr>
     <tr>
         <td></td>
-        <td>Xiangyu Zhao;Chengqian Ma:  <em>Prompt Recursive Search: A Living Framework with Adaptive Growth in LLM Auto-Prompting</em> </td>
+        <td>Xiangyu Zhao:  <em>Prompt Recursive Search: A Living Framework with Adaptive Growth in LLM Auto-Prompting</em> </td>
     </tr>
     <tr style="background-color:#D8D8D8">
         <td>15:30-16:00</td>
