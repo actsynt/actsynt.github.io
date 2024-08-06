@@ -5,7 +5,7 @@ title: Program
 
 
 <h2>October 19th</h2>
-<br>
+
 <table style="font-size:80%">
   <tbody>
     <tr style="background-color:#FEF2CB">
