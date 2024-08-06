@@ -18,8 +18,14 @@ title: Program
     </tr>
     <tr>
       <td></td>
-      <td>Raphaël Berthon;Joost-Pieter Katoen;Munyque Mittelmann;Aniello Murano: <em>Natural Strategic Ability in Stochastic Multi-Agent Systems</em></td>
+      <td>Aniello Murano: <em>Natural Strategic Ability in Stochastic Multi-Agent Systems</em></td>
+    </tr>
+    <tr>
+      <td></td>
       <td>Giuseppe Perelli: <em>Endogenous Energy Reactive Modules Games: Modelling Side Payments Among Resource-Bounded Agents</em></td>
+    </tr>
+    <tr>
+      <td></td>
       <td>Marco Montali: <em>Foundations of Reactive Synthesis for Declarative Process Specifications </em></td>
     </tr>
     <tr style="background-color:#D8D8D8">
