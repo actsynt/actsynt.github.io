@@ -2,8 +2,6 @@
 layout: home
 title: Program
 ---
-
-
 <h2>October 19th</h2>
 
 <table style="font-size:80%">
