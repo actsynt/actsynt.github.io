@@ -5,7 +5,7 @@ title: Program
 
 
 <h2>October 19th</h2>
-
+<br>
 <table style="font-size:80%">
   <tbody>
     <tr style="background-color:#FEF2CB">
@@ -14,11 +14,11 @@ title: Program
     </tr>
     <tr style="background-color:#B0C4DE">
       <td>Invited Speaker</td>
-      <td><b>Jan Křetínský:: <em>TBA</em></b> </td>
+      <td><b>Jan Křetínský: <em>TBA</em></b> </td>
     </tr>
     <tr>
       <td></td>
-      <td>Ben Greenman: <em>Little Tricky Logic: Misconceptions in the Understanding of LTL </em><a href="/assets/slides/Ben Greenman.pdf" target="_blank"><img class="paperlink" src="/assets/img/slide-img.png" title="slides"></a></td>
+      <td>Raphaël Berthon;Joost-Pieter Katoen;Munyque Mittelmann;Aniello Murano: <em>Natural Strategic Ability in Stochastic Multi-Agent Systems</em></td>
     </tr>
     <tr style="background-color:#D8D8D8">
       <td>10:30-11:00</td>
