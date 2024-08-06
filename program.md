@@ -4,7 +4,7 @@ title: Program
 ---
 
 
-      <h2>March 27, Day 1</h2>
+<h2>October 19th</h2>
 
 <table style="font-size:80%">
   <tbody>
@@ -14,7 +14,7 @@ title: Program
     </tr>
     <tr style="background-color:#B0C4DE">
       <td>Invited Speaker</td>
-      <td><b> Giuseppe De Giacomo: <em>Linear-time Temporal Logics on Finite Traces</em></b> <a href="/assets/slides/degiacomo.pdf" target="_blank"><img class="paperlink" src="/assets/img/slide-img.png" title="slides"></a></td>
+      <td><b>Jan Křetínský:: <em>TBA</em></b> </td>
     </tr>
     <tr>
       <td></td>
