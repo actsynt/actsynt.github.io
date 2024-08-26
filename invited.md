@@ -11,12 +11,9 @@ title: Invited Speakers
 </ul>
 
 
-<div class=" container-md " role="main">
-  <div class="row">
-    <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 ">
-      
 
-      <h2 id="rance">Invited Speaker: <em><a href="https://www.cs.umd.edu/people/wcleavel">Rance Cleaveland</a></em></h2>
+
+<h2 id="rance">Invited Speaker: <em><a href="https://www.cs.umd.edu/people/wcleavel">Rance Cleaveland</a></em></h2>
 <p><img src="/assets/img/rance.jpg" alt="rance" class="img-responsive" style="max-width: 40%; float: left; border-radius: 3%; margin-right: 25px" /></p>
 
 <p style="text-align: justify">Rance Cleaveland is Professor of Computer Science at the University of Maryland in College Park, w
@@ -42,6 +39,3 @@ This work is joint with Sam Huang.
 </p>
 
 
-    </div>
-  </div>
-</div>
