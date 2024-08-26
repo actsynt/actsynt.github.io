@@ -12,7 +12,7 @@ title: Program
     </tr>
     <tr style="background-color:#B0C4DE">
       <td>Invited Speaker</td>
-      <td><b>Jan Křetínský: <em>TBA</em></b> </td>
+      <td><b>Jan Křetínský: <em> Learning and Guessing Winning Policies in LTL Synthesis via Semantics</em></b> </td>
     </tr>
     <tr>
       <td></td>
