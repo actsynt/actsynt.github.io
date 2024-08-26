@@ -28,17 +28,8 @@ TBA
 
 <h3 style="text-align: justify" id="keynote-abstract---download-slides">Lifted Planning: Recent Advances in Planning Using First-Order Representations</h3>
 
-<p>This talk addresses the following problem:  given a finite set of observations of system behavior, each observation 
-itself being a finite sequence of system states, and a query consisting of a Finite Linear-Time Temporal Logic (LTL) 
-formula with missing sub-formulas, compute missing the missing sub-formulas that make the formula true for all observations.  
-This so-called query-checking problem has many applications in the analysis of time-series data, including server logs and 
-financial trend data, as well as generally in system comprehension and system-specification mining.  The presentation first 
-introduces Finite LTL, which is the well-known LTL logic of Pnueli interpreted over finite, rather than infinite, state sequences.  
-It will then show how automata may be constructed from such formulas that recognize exactly the sequences making the formula true, 
-and how these automata may be adapted to Finite LTL queries in which sub-formulas are missing.  A procedure is then described that 
-uses the automaton representation of such a query to solve for the missing sub-formulas for a given a set of finite state sequences.  
-Preliminary experimental results of a prototype implementation are also given.
-This work is joint with Sam Huang.
+<p>Lifted planning is usually defined as planning directly over a first-order representation. From the mid-1990s until the late 2010s, lifted planning was sidelined, as most of the state-of-the-art planners first ground the task and then solve it using a propositional representation. Moreover, it was unclear whether lifted planners could scale. But as planning problems become harder, they also become infeasible to ground. Recently, lifted planners came back into play, aiming at problems where grounding is a bottleneck. In this talk, we survey recent advances in lifted planning, including lifted state-space search and satisfiability. We draw some direct connections between recent lifted planners and other areas of computer science, such as constraint satisfaction problems, databases, and logic programming.
+
 </p>
 
 <h2 id="rance">Invited Speaker: <em><a href="https://www7.in.tum.de/~kretinsk/">Jan Křetínský</a></em></h2>
