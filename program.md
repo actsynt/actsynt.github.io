@@ -24,7 +24,7 @@ title: Program
     </tr>
     <tr>
       <td></td>
-      <td>Marco Montali: <em>Foundations of Reactive Synthesis for Declarative Process Specifications </em></td>
+      <td>Gianmarco Parretti: <em>Computational Foundations of Responsibility Based on LTLf Reactive Synthesis</em></td>
     </tr>
     <tr style="background-color:#D8D8D8">
       <td>10:30-11:00</td>
@@ -95,8 +95,8 @@ title: Program
       <td>Gianmarco Parretti: <em>Synthesis with Multiple Specifications</em></td>
     </tr>
     <tr>
-      <td></td>
-      <td>Gianmarco Parretti: <em>Computational Foundations of Responsibility Based on LTLf Reactive Synthesis</em></td>
+      <td></td>     
+       <td>Marco Montali: <em>Foundations of Reactive Synthesis for Declarative Process Specifications </em></td>
     </tr>
     <tr>
       <td></td>
