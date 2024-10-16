@@ -60,7 +60,7 @@ title: Program
     </tr>
     <tr style="background-color:#B0C4DE">
       <td>Invited Speaker</td>
-      <td><b>Suguman Bansal: <em>TBA</em></b></td>
+      <td><b>Suguman Bansal: <em>Trustworthy Generalizable RL</em></b></td>
     </tr>
     <tr>
       <td></td>
