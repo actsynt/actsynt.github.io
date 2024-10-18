@@ -22,7 +22,7 @@ TBA
 
 <h2 id="rance">Invited Speaker: <em><a href="https://ai.dmi.unibas.ch/people/correa/">Augusto B. Corrêa</a></em></h2>
 
-<p style="text-align: justify"> Augusto B. Corrêa is a Ph.D. student at the University of Basel, Switzerland, under the supervision of Prof. Malte Helmert. He works in classical planning, focusing on how different representations impact the performance of planners. Other topics of his research include generalized planning, computational complexity, and interactive models for planning. Augusto is the creator of the Powerlifted planners and one of the developers of the Levitron and Scorpion Maidu planners, which won the satisficing track of the last International Planning Competition.
+<p style="text-align: justify"> Augusto B. Corrêa is a postdoctoral researcher at the University of Basel, Switzerland, working in the group of Prof. Malte Helmert. He works in classical planning, focusing on how different representations impact the performance of planners. Other topics of his research include generalized planning, computational complexity, and interactive models for planning. Augusto is the creator of the Powerlifted planners and one of the developers of the Levitron and Scorpion Maidu planners, which won the satisficing track of the last International Planning Competition.
 
 </p>
 
