@@ -16,7 +16,7 @@ title: Program
     </tr>
     <tr>
       <td></td>
-      <td>Aniello Murano: <em>Natural Strategic Ability in Stochastic Multi-Agent Systems</em></td>
+      <td>Aniello Murano: <em>Playing Quantitative Games Against an Authority: On the Module Checking Problem</em></td>
     </tr>
     <tr>
       <td></td>
